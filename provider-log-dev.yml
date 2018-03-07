@@ -12,4 +12,4 @@ spring:
       host: 127.0.0.1
       database: logs
       port: 27017
-content:admin
+contant:admin
